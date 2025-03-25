@@ -8,16 +8,17 @@ Este repositorio tiene como objetivo la realización de trabajos prácticos en b
 
     1- Python
     2- Terminal
-    3- Git y Github (https://imgs.search.brave.com/DB_Ww8A4JOJyyuF8BAv7caW6k6pFDvvrTdeB3zFmYmw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naXRo/dWIuY29tL3ByaW1l/ci9icmFuZC9hc3Nl/dHMvMTkyOTIyMTAv/ODU2MmE5YTUtYTFl/NC00NzIyLTllYzct/NDdlYmNjZDU5MDFl)
+    3- ![Git Hub](assets/imagen.webp)
 
-## Contenido
 
-Carpetas:
+
+## Contenido (Carpetas)
+
     A- bin
     B- doc
     C- script
     D- src
-        archivo primes.py
+
     
 ## Contacto
 
