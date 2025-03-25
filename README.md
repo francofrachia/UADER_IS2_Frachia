@@ -22,9 +22,9 @@ Este repositorio tiene como objetivo la realización de trabajos prácticos en b
     
 ## Contacto
 
-    A- Correo: francofrachiaesc@gmail.com
+    A- [Correo](https://workspace.google.com/intl/es-419_ar/gmail/)
     B- Celular: 3455482831
-    C- LinkedIn: https://www.linkedin.com/feed/
+    C- [LinkedIn](https://www.linkedin.com/feed/)
 
 
 ![Imagen ilustrativa](assets/imagen.webp)
