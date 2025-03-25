@@ -8,7 +8,7 @@ Este repositorio tiene como objetivo la realización de trabajos prácticos en b
 
     1- Python
     2- Terminal
-    3- ![Git Hub](assets/imagen.webp)
+    3- ![Git Hub](/assets/imagen.webp)
 
 
 
